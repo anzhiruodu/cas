@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 FJOIWEJFOJ
-JFOEJHFSDFF
-HFOSHF
-=======
-FJOIWfdsfEJFOJfwe
-JFOEJHFSDFFfdsffew
-HFOSHFfwef
->>>>>>> demo4-2
+JFOEJHFSDFfdsfF
+ooooooooooooooo
