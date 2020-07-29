@@ -1,9 +1,3 @@
-113131313fsdffsfjslfjd
-21fewf132135fsdffdsf
-fsdfsdffwefjflj
- git config --global user.email "358270236@qq.com"
-  git config --global user.name "anzhiruodu"
-git config --global user.name "anzhiruodu"
-
-
-fjwlejfjjfowejf
+FJOIWEJFOJ
+JFOEJHFSDFF
+HFOSHF
