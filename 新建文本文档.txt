@@ -1,21 +1,9 @@
-aaaaaaaaaaa
-jfsdjflsfjewlkj
-fhsdhfishfoih
-fjwweoifsdhfsdhflshfi
-jlsjflsdjflksjghowiehfoiweh
-bbbbbbbbbbbbb
-fhiohfih
-bbbbbbbbbbbbb
-
-cccccccccccccc
+113131313fsdffsfjslfjd
+21fewf132135fsdffdsf
+fsdfsdffwefjflj
+ git config --global user.email "358270236@qq.com"
+  git config --global user.name "anzhiruodu"
+git config --global user.name "anzhiruodu"
 
 
-fsdkfjlksdjflskd
-
-
-fnskldfjelkf
-
-
-fjeoifhweoifhoiweh
-
-fnskldfjelkf
+fjwlejfjjfowejf
